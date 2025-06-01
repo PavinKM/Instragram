@@ -39,5 +39,50 @@
     ],
     "timestamp": "2024-05-14T07:10:00Z"
   }
+],
+    "profile" :{
+                "id": 1,
+                "username": "pavin_developer_mern",
+                "avatar": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png"
+},
+
+    "suggestions" : [
+        {
+        "id": 1,
+        "username": "travel_diaries",
+        "profile_pic": "https://cdn-icons-png.flaticon.com/512/147/147144.png"
+      },
+      {
+        "id": 2,
+      "username": "foodielife",
+      "profile_pic": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png"
+      },
+      {
+        "id": 3,
+        "username": "travel_",
+        "profile_pic": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png"
+      },
+      {
+        "id": 4,
+        "username": "fit_with_raj",
+        "profile_pic": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png"
+      },
+      {
+        "id": 5,
+        "username": "fit__raj",
+        "profile_pic": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png"
+      },
+      {
+        "id": 6,
+        "username": "fit",
+        "profile_pic": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png"
+      },
+      {
+        "id": 7,
+        "username": "raj",
+        "profile_pic": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png"
+      }
 ]
 }
+
+

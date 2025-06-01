@@ -18,7 +18,7 @@ function Posts() {
                     <div className='my-3 post-container' key={post.id}>
                         <div className='d-flex'>
                             <img className='dp rounded-circle' src={post.avatar} alt='profile pic'/>
-                            <p>{post.username}</p>
+                            <h5>{post.username}</h5>
                         </div>
                         <img className='image' src={post.image} alt='post'/>
                         <div>
