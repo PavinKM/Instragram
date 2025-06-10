@@ -1,0 +1,124 @@
+{
+    "posts": [
+  {
+    "id": 1,
+    "username": "travel_diaries",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Sunrise.PNG",
+    "caption": "Exploring the Swiss Alps 🏔️ #wanderlust",
+    "likes": 128,
+    "comments": [
+      { "user": "alex_95", "text": "Breathtaking view!" },
+      { "user": "jane_doe", "text": "Adding this to my bucket list 💙" }
+    ],
+    "timestamp": "2024-05-10T09:24:00Z"
+  },
+  {
+    "id": 2,
+    "username": "foodielife",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/08/Druriolanus-the-chef.png",
+    "caption": "Handmade pasta from a local Italian kitchen 🍝🇮🇹",
+    "likes": 245,
+    "comments": [
+      { "user": "chef_tom", "text": "Looks delicious!" },
+      { "user": "foodie_girl", "text": "Pasta is life 😍" }
+    ],
+    "timestamp": "2024-05-12T14:45:00Z"
+  },
+  {
+    "id": 3,
+    "username": "fit_with_raj",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Gym_Free-weights_Area.jpg",
+    "caption": "Morning grind 💪 #NoExcuses",
+    "likes": 96,
+    "comments": [
+      { "user": "muscle_maniac", "text": "Respect! 🔥" },
+      { "user": "healthfirst", "text": "Keep it up 👏" }
+    ],
+    "timestamp": "2024-05-14T07:10:00Z"
+  }
+],
+    "profile" :{
+                "id": 1,
+                "username": "pavin_developer_mern",
+                "avatar": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png"
+},
+
+    "suggestions" : [
+        {
+        "id": 1,
+        "username": "travel_diaries",
+        "profile_pic": "https://cdn-icons-png.flaticon.com/512/147/147144.png"
+      },
+      {
+        "id": 2,
+      "username": "foodielife",
+      "profile_pic": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png"
+      },
+      {
+        "id": 3,
+        "username": "travel_",
+        "profile_pic": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png"
+      },
+      {
+        "id": 4,
+        "username": "fit_with_raj",
+        "profile_pic": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png"
+      },
+      {
+        "id": 5,
+        "username": "fit__raj",
+        "profile_pic": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png"
+      },
+      {
+        "id": 6,
+        "username": "fit",
+        "profile_pic": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png"
+      },
+      {
+        "id": 7,
+        "username": "raj",
+        "profile_pic": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png"
+      }
+],
+  "story": [
+  {
+    "id": 1,
+    "username": "travel_diaries",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    "image": "src/assets/story_1.png"
+  },
+  {
+    "id": 2,
+    "username": "foodielife",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "image": "src/assets/story_2.png"
+  },
+  {
+    "id": 3,
+    "username": "fit_with_raj",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png",
+    "image": "src/assets/story_3.png"
+  },
+  {
+    "id": 4,
+    "username": "diaries_travel",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+    "image": "src/assets/story_6.png"
+  },
+  {
+    "id": 5,
+    "username": "foodielife",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "image": "src/assets/story_5.png"
+  },
+  {
+    "id": 6,
+    "username": "fit__raj",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png",
+    "image": "src/assets/story_6.png"
+  }
+]
+}
